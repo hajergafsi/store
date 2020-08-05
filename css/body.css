@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  max-width: 100%;
+}
+.firstrow2 {
+  background-color: black;
+  height: inherit;
+}
+.firstrow > img {
+  height: auto;
+  width: 100%;
+}
+.secondrow {
+  padding-top: 0;
+}
+.btn.btn-outline-light {
+  display: flex;
+  align-self: center;
+  margin-right: 18%;
+}

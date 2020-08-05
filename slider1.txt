@@ -1,0 +1,23 @@
+    <div class="carousel-inner">
+      <div class="item active " style="margin-left: 100px; min-width:1100px; text-align: center;">
+          <?php
+            component("Lip gloss",599,700,"./images/1529078183-best-makeup-0002-lorealparishvolumelash-1529078173.png","./product.php");
+            component("product 2",479,700,"./images/ysl-beauty-touche-eclat-all-over-brightening-pen.png","./product.php");
+            component("product 2",479,600,"./images/FENTY-BEAUTY-Rihanna-Stunna-Lip-Paint-Longwear-Fluid-Lip-Color.png","./product.php");
+          ?>
+      </div>
+
+      <div class="item " style="margin-left: 300px; min-width:1100px; text-align: center;">
+        <?php
+          component("product 2",479,600,"./images/cos.jpg","./product.php");
+          component("product 1",599,600,"./images/tools.jpeg","./product.php");
+          ?>
+      </div>
+    
+      <div class="item " style="margin-left: 300px; min-width:1100px; text-align: center;">
+          <?php
+            component("product 3",109,550,"./images/49000064-012_1_makeup-brush-set.png","./product.php");
+            component("product 2",479,550,"./images/best-makeup-under-20.png","./product.php")
+          ?>
+      </div>
+    </div>

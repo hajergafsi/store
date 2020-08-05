@@ -1,0 +1,90 @@
+.pr-slider {
+  min-width: 60%;
+  padding-top: 70px;
+  padding-left: 80px;
+}
+
+.carousel {
+  min-width: 100vh;
+}
+.pr-slider .item {
+  min-width: 100%;
+}
+.carousel-inner {
+  min-width: 100%;
+}
+.pr-slider img {
+  min-width: 100%;
+}
+.carousel-indicators {
+  position: relative;
+  float: left;
+}
+
+.carousel-indicators img {
+  height: 50px;
+  width: 50px;
+  opacity: 0.6;
+}
+.indicators {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+}
+
+.carousel-indicators .active img {
+  height: 50px;
+  opacity: 1;
+  min-width: 50px;
+}
+
+.carousel-indicators {
+  width: 100%;
+}
+
+.carousel-indicators li {
+  background-color: black;
+  border-right: none;
+  border-left: none;
+}
+.carousel-thumbnails .carousel-indicators img {
+  max-width: 100px;
+  height: 50px;
+  overflow: hidden;
+  display: block;
+}
+
+.carousel-thumbnails .carousel-indicators li {
+  height: auto;
+  max-width: 100px;
+  width: 50px;
+  border: none;
+}
+
+.carousel-indicators .active img {
+  opacity: 1;
+}
+
+.description h4 {
+  vertical-align: top;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Comfortaa-VariableFont_wght';
+}
+@font-face {
+  font-family: 'Comfortaa-VariableFont_wght';
+  src: url('fonts/Comfortaa-Bold.ttf');
+}
+.fa-star {
+  color: black;
+}
+.stars {
+  margin-left: 40%;
+}
+
+.description {
+  width: 40%;
+}
+.description a {
+  font-size: 12px;
+}
